@@ -2,7 +2,7 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/hero-img.jpg",
-    "title": "MÖH <br /> ♾️s",
+    "title": "MÖH <br />",
     "subTitle": "Hello, I’m",
     "designation": "Visual Designer"
   },
@@ -513,23 +513,17 @@
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
+        "title": "Master of Design",
+        "duration": "2023 - Ongoing",
+        "subTitle": "University of Design",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
         "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
+        "duration": "2024 - 2028",
+        "subTitle": "Lagos state university",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      }
     ]
   },
   "contactData": {
@@ -547,11 +541,6 @@
     {
       "icon": "behance",
       "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
       "link": "/"
     },
     {
