@@ -2,36 +2,36 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/hero-img.jpg",
-    "title": "Edward <br /> Davis",
+    "title": "MÖH <br /> ♾️s",
     "subTitle": "Hello, I’m",
     "designation": "Visual Designer"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
     "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
+    "title": "Hi There! I'm MÖH",
     "subtitle": "Visual Designer",
     "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "May 07, 2006"
       },
       {
         "title": "Phone",
-        "info": "+1 876-369-9009"
+        "info": "+234 916 017 3429"
       },
       {
         "title": "Email",
-        "info": "devis@example.com"
+        "info": "muhammedolorungbemi@gmail.com"
       },
       {
         "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "info": "Lagos, Nigeria"
       },
       {
         "title": "Language",
-        "info": "English, Germanic"
+        "info": "English, Native, Chinese"
       },
       {
         "title": "Freelance",
@@ -452,13 +452,13 @@
     "informations": [
       {
         "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
+        "title": "Senator Hilary",
         "designation": "Chairman",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
         "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
+        "title": "Leon Musk",
         "designation": "Executive Director",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
